@@ -3,3 +3,4 @@ gunicorn==21.2.0
 requests==2.31.0
 protobuf>=5.26.1
 pycryptodome>=3.20.0
+protobuf-decoder
